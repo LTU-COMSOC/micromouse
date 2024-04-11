@@ -11,6 +11,7 @@ class node:
         self.corner_node = corner_node
 
     def degree_45_combo_check(self):
+        #hi
         return self.degree_45_combo
 
     def straight_line_combo_check(self):
